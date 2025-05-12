@@ -26,6 +26,7 @@ int main()
     n=(s*100)/(p*r);
     printf("No.of.Year is = %.2f",n);
 }
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/9fa6e5ca-74fc-4ef8-ab4a-ecda9de4e45d)
