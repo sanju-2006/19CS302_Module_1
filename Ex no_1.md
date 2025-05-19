@@ -1,14 +1,14 @@
 # EX 1 C program to initialize the value as 5.8 & display the same.
-## DATE:
+## DATE: 19/05/25
 ## AIM:
 To write a program to initialize the value as 5.8 & display the same.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Analyze the question
+2. Follow the algorithm
+3. Try the code
+4.  Check for error
+5. Run & Display the output
 
 ## Program:
 ```
@@ -17,9 +17,18 @@ Program to initialize the value as 5.8 & display the same.
 Developed by: 
 RegisterNumber:  
 */
-```
+
+#include <stdio.h>
+
+int main() {
+    float value = 5.8;
+    printf("%.1f\n", value);
+    return 0;
+}
+
 
 ## Output:
+ 5.8
 
 
 
